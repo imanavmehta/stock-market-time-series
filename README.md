@@ -1,2 +1,2 @@
-# stock-market-time-series-
+# stock-market-time-series
 case study
